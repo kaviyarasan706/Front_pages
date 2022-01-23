@@ -1,0 +1,17 @@
+/* .container {
+  /* padding-top: 6em;
+  padding-bottom: 3em;
+  padding-right: 6em;
+  padding-left: 6em; */
+/* height: 200px; */
+/* background-color: #aa00ff; */
+
+/* .login_content {
+  background-color: #aa00ff;
+} */
+.login_topic {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 500;
+  font-size: 2em;
+  will-change: opacity;
+}

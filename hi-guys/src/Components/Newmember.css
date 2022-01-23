@@ -1,0 +1,20 @@
+.newmember_text {
+  font-weight: 500;
+  font-size: 2em;
+  will-change: opacity;
+}
+
+.text_container {
+  display: flex;
+  align-items: center;
+  height: 20%;
+  justify-content: center;
+}
+.newmember_imgpart {
+  /* padding-left: 20em;
+    height: 43em 43 em;
+    padding-top: 5em; */
+  /* padding-bottom: 5em; */
+  /* padding-right: 20em; */
+  height: 500px;
+}
